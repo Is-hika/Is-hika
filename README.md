@@ -63,13 +63,10 @@ Highly motivated and goal-oriented B.Tech student specializing in **Cloud Comput
 
 ### 📊 My GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ishika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=is-hika&show_icons=true&theme=radical" alt="Ishika's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=is-hika&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-*(Make sure to replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username!)*
 
 ---
 
