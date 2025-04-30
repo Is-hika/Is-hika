@@ -1,5 +1,5 @@
 # Hi there, I'm Ishika Kumari! 👋
-<p align="center">
+<p>
   <strong>Aspiring Software Engineer | Cloud Enthusiast | B.Tech Pre-Final Year @ UPES Dehradun</strong>
 </p>
 
