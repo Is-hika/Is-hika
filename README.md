@@ -1,9 +1,4 @@
 # Hi there, I'm Ishika Kumari! 👋
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXA0OWZta3Z2enNqamRxenZ0Z3Z4d3N0cjZieGh6ZDBiMnZ0cTVwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7TKSjRrfOfvyf3qM/giphy.gif" width="100"> <!-- Optional: A subtle, relevant GIF -->
-</p>
-
 <p align="center">
   <strong>Aspiring Software Engineer | Cloud Enthusiast | B.Tech Pre-Final Year @ UPES Dehradun</strong>
 </p>
