@@ -1,4 +1,4 @@
-## Hi the
+## Hi there
  I'm Ishika, a passionate developer with a focus on cloud computing, data structures and algorithms (DSA), and software development. I enjoy building projects that combine cutting-edge technologies with real-world applications. I'm currently working on various projects related to solo travelers, cloud computing, containers, and virtual technology.
 
 About Me
